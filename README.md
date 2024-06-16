@@ -4,7 +4,10 @@
 
 A little helper webpage for configuring and generating OwnTracks client applications. Click on the options, get a URL generated that you can click on in your device to load the config.
 
-[https://owntracks.github.io/web-configurator/](https://owntracks.github.io/web-configurator/)
+[https://haoling.github.io/owntracks-web-configurator/](https://haoling.github.io/owntracks-web-configurator/)
+
+# Changes from original repository
+Fix [#2](https://github.com/owntracks/web-configurator/issues/2): not saves numeric values
 
 # TODO
 
